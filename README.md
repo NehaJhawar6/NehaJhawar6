@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NehaJhawar6
 - 👀 I’m interested in Business Analyst
-- 🌱 I’m good at sql and Power Bi
+- 🌱 I’m good at SQL and POWER BI
 - 📫 How to reach me ...njnehajhawar3031@GMAIL.COM
   
 
